@@ -1,0 +1,8 @@
+Check,Count
+Rows in raw file,9994
+Exact duplicates removed,0
+Rows with missing required fields removed,0
+Negative sales rows detected,0
+Non-positive quantity rows detected,0
+Discount outside 0-1 detected,0
+Rows in cleaned file,9994
